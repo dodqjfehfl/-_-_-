@@ -4,7 +4,7 @@ public class ex05_05 {
         System.out.println("재귀적으로 구현 : "+factorial_recursive(5));
     }
 
-    static int factorial_iterative(n){
+    static int factorial_iterative(int n){
         int result=1;
         for(int i=1;i<=n;i++){
             result*=i;
@@ -12,7 +12,7 @@ public class ex05_05 {
         return result;
     }
 
-    static int factorial_recursive(n){
+    static int factorial_recursive(int n){
         if(n<=1)
             return 1;
         return n*factorial_recursive(n-1);

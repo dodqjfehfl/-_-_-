@@ -2,15 +2,15 @@ import java.util.Stack;
 
 public class ex05_01 {
     public static void main(String[] args) {
-        Stack<Integer> stack=new Stack<>();
+        Stack<Integer> stack=new Stack<Integer>();
 
-        stack.append(5);
-        stack.append(2);
-        stack.append(3);
-        stack.append(7);
+        stack.push(5);
+        stack.push(2);
+        stack.push(3);
+        stack.push(7);
         stack.pop();
-        stack.append(1);
-        stack.append(4);
+        stack.push(1);
+        stack.push(4);
         stack.pop();
 
         for(int i=0;i<stack.size();i++)

@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class ex05_06 {
     public static void main(String[] args) {
         int INF=999999999;

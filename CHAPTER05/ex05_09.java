@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -36,7 +37,7 @@ public class ex05_09 {
         adj.get(8).add(1);
         adj.get(8).add(7);
 
-        dfs(adj, 1, visited);
+        bfs(adj, 1, visited);
     }
     public static void bfs(ArrayList<ArrayList<Integer>> adj, int start, boolean[] visited) {
         Queue<Integer> q = new LinkedList<>();
@@ -47,8 +48,8 @@ public class ex05_09 {
             int x = q.poll();
             System.out.print(x + " ");
 
-            for(int i = 0; i < graph.get(x).size(); i++) {
-                int y = graph.get(x).get(i);
+            for(int i = 0; i < adj.get(x).size(); i++) {
+                int y = adj.get(x).get(i);
                 if(!visited[y]) {
                     q.offer(y);
                     visited[y] = true;

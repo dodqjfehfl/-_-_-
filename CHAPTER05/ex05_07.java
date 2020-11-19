@@ -22,7 +22,7 @@ public class ex05_07 {
         }
     }
 
-    class Node{
+    static class Node{
         int index;
         int distance;
 

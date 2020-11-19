@@ -10,7 +10,7 @@ public class ex04_03 {
         int row=input_data.charAt(1)-'0';
         int column=input_data.charAt(1)-'a'+1;
 
-        int[][] steps={{-2,-1},{-1,-2},{1,-2},{2,-1},{2,1},{1,2},{-1,2},{-2,-}};
+        int[][] steps={{-2,-1},{-1,-2},{1,-2},{2,-1},{2,1},{1,2},{-1,2},{-2,1}};
 
         int result=0;
 

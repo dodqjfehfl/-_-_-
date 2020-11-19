@@ -24,6 +24,8 @@ public class ex03_02 {
         answer+=(m-count)*data[data.length-2];
 
         System.out.println("answer : "+answer);
+        
+        sc.close();
     }
 }
 

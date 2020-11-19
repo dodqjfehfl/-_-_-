@@ -25,7 +25,7 @@ public class ex04_01{
 
         for(String plan:plans){
             for(int d=0;d<4;d++){
-                if(plan==move_type[i]){
+                if(plan==move_type[d]){
                     x+=dx[d];
                     y+=dy[d];
 

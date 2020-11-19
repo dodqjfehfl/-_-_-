@@ -1,13 +1,13 @@
 import java.io.BufferedReader;
-import java.lang.invoke.ClassSpecializer.Factory;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-import jdk.internal.org.jline.utils.InputStreamReader;
-
 public class ex05_10 {
-    static int n,m;
+    static int n, m;
     static int[][] graph;
-    public static void main(String[] args) {
+
+    public static void main(String[] args) throws IOException {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer token=new StringTokenizer(br.readLine());
 
