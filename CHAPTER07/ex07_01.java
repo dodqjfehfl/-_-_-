@@ -15,6 +15,7 @@ public class ex07_01 {
         }
 
         System.out.println(sequantialSearch(n, target, arr));
+        sc.close();
     }
 
 
