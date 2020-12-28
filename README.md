@@ -6,15 +6,18 @@
 ---
 CHATER|1회차|2회차|3회차
 ------|----|----|----
-11|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java
-12|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java
-13|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java
-14|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java
-15|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java
-16|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java
-17|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java
-18|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java
-19|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java|- [ ] Python<br/>- [x] java
+11|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+12|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+13|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+14|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+15|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+16|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+17|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+18|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+19|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+
+- [ ] not yet
+- [x] done
 ---
 [code github](https://github.com/ndb796/python-for-coding-test "나동빈님의 깃")
 ---
