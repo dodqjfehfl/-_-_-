@@ -1,9 +1,13 @@
 # 이것이 (취업을 위한) 코딩 테스트다. with 파이썬
 
+CHATER 03 ~ 10까지
 파이썬은 책을 보면서 작성<br>
 자바는 작성한 코드를 참조 하여 작성
 
 ---
+
+##기출
+
 CHATER|1회차|2회차|3회차
 :------:|:----:|:----:|:----:
 11|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
