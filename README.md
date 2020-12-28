@@ -7,7 +7,7 @@
 CHATER|Python|java
 ------|------|----
 11|:white_check_mark:|:white_check_mark:
-12|[ ]|[ ]
+12| [ ] 1회| [x] 1회
 ---
 [code github](https://github.com/ndb796/python-for-coding-test "나동빈님의 깃")
 ---
