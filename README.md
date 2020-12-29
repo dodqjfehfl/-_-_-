@@ -21,8 +21,9 @@ CHATER|1회차|2회차|3회차
 18|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
 19|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
 
-- [ ] not yet
-- [x] done
+- [ ] not yet<br/>
+:ng: not good<br/>
+:ok: ok
 ---
 [code github](https://github.com/ndb796/python-for-coding-test "나동빈님의 깃")
 ---
