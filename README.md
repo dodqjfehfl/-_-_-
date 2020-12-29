@@ -28,7 +28,7 @@ C는 추후에 연습을 하면서 추가할 예정
 
 ---
 
-[code github](https://github.com/ndb796/python-for-coding-test "나동빈님의 깃")
+**[code github](https://github.com/ndb796/python-for-coding-test "나동빈님의 깃")**
 :+1::+1::+1:
 
 *[이것이 코딩테스트다.](https://www.hanbit.co.kr/store/books/look.php?p_code=B8945183661 "한빛미디어 페이지")*<br/>
