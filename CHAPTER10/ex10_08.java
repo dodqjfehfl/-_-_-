@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-public class ex10_05 {
+public class ex10_08 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer token = new StringTokenizer(br.readLine());
@@ -17,9 +17,8 @@ public class ex10_05 {
         ArrayList<Edge> edges = new ArrayList<Edge>();
         int result = 0;
 
-        for (int i = 1; i < v + 1; i++) {
+        for (int i = 0; i < v + 1; i++)
             parent[i] = i;
-        }
 
         for (int i = 0; i < e; i++) {
             token = new StringTokenizer(br.readLine());
@@ -32,6 +31,7 @@ public class ex10_05 {
         }
 
         Collections.sort(edges);
+        int last = 0;
 
         for (int i = 0; i < edges.size(); i++) {
             int cost = edges.get(i).getDistance();
@@ -40,11 +40,12 @@ public class ex10_05 {
 
             if (find_parent(parent, a) != find_parent(parent, b)) {
                 union_parent(parent, a, b);
-                result += cost;
+                last = cost;
+                result += last;
             }
         }
 
-        System.out.println(result);
+        System.out.println(result - last);
     }
 
     static int find_parent(int[] parent, int x) {
@@ -75,41 +76,39 @@ public class ex10_05 {
         }
 
         public int getDistance() {
-            return this.distance;
+            return distance;
         }
 
         public int getNodeA() {
-            return this.nodeA;
+            return nodeA;
         }
 
         public int getNodeB() {
-            return this.nodeB;
+            return nodeB;
         }
 
         @Override
-        public int compareTo(ex10_05.Edge o) {
+        public int compareTo(ex10_08.Edge o) {
             if (this.distance < o.distance) {
                 return -1;
             }
             return 1;
         }
-
-        @Override
-        public String toString() {
-            return "Edge [distance=" + distance + ", nodeA=" + nodeA + ", nodeB=" + nodeB + "]";
-        }
     }
 }
 
-// 7 9
-// 1 2 29
-// 1 5 75
-// 2 3 35
-// 2 6 34
-// 3 4 7
-// 4 6 23
-// 4 7 13
-// 5 6 53
-// 6 7 25
+// 7 12
+// 1 2 3
+// 1 3 2
+// 3 2 1
+// 2 5 2
+// 3 4 4
+// 7 3 6
+// 5 1 5
+// 1 6 2
+// 6 4 1
+// 6 5 3
+// 4 5 3
+// 6 7 4
 
-// 159
+// 8
