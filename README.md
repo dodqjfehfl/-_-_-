@@ -10,6 +10,15 @@ C는 추후에 연습을 하면서 추가할 예정
 
 ### :page_with_curl:기출
 
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||
+
 :mag:CHATER|1회차|2회차|3회차
 :------:|:----:|:----:|:----:
 11|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
