@@ -17,7 +17,8 @@ Content       |          *Long Cell*        ||
 Content       |   **Cell**    |         Cell |
 
 New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||
+And more      | With an escaped '\|'         ||  
+[Prototype table]
 
 :mag:CHATER|1회차|2회차|3회차
 :------:|:----:|:----:|:----:
