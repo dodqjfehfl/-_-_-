@@ -13,7 +13,7 @@ C는 추후에 연습을 하면서 추가할 예정
 |             |          Grouping           ||
 First Header  | Second Header | Third Header |
  ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
+Content       |          *Long Cell*        |>|
 Content       |   **Cell**    |         Cell |
 
 New section   |     More      |         Data |
@@ -24,7 +24,7 @@ And more      | With an escaped '\|'         ||
 | :------------ | :-----------: | -------------------: |
 | First row     | Data          | Very long data entry |
 | Second row    | **Cell**      | *Cell*               |
-| Third row     | Cell that spans across two columns  ||
+| Third row     | Cell that spans across two columns  |>|
 
 :mag:CHATER|1회차|2회차|3회차
 :------:|:----:|:----:|:----:
