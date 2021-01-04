@@ -20,15 +20,11 @@ New section   |     More      |         Data |
 And more      | With an escaped '\|'         ||  
 [Prototype table]
 
-|♜|  |♝|♛|♚|♝|♞|♜|
-|--|--|--|--|--|--|--|--|
-|  |♟|♟|♟|  |♟|♟|♟|
-|♟|  |♞|  |  |  |  |  |
-|  |♗|  |  |♟|  |  |  |
-|  |  |  |  |♙|  |  |  |
-|  |  |  |  |  |♘|  |  |
-|♙|♙|♙|♙|  |♙|♙|♙|
-|♖|♘|♗|♕|♔|  |  |♖|
+| First Header  | Second Header | Third Header         |
+| :------------ | :-----------: | -------------------: |
+| First row     | Data          | Very long data entry |
+| Second row    | **Cell**      | *Cell*               |
+| Third row     | Cell that spans across two columns  ||
 
 :mag:CHATER|1회차|2회차|3회차
 :------:|:----:|:----:|:----:
