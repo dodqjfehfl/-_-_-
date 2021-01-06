@@ -11,7 +11,7 @@ C는 추후에 연습을 하면서 추가할 예정
 
 ### :page_with_curl:기출
 
-[:mag:CHATER11](https://github.com/dodqjfehfl/This_is_coding_test/blob/master/CHAPTER11/CHATPER11.md)<br/>
+[:mag:CHATER11](https://github.com/dodqjfehfl/This_is_coding_test/blob/master/CHAPTER11/CHATPER11.md "CHATER11의 문제 상황")<br/>
 :mag:CHATER12<br/>
 :mag:CHATER13<br/>
 :mag:CHATER14<br/>
