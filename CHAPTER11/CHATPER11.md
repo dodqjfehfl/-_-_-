@@ -11,6 +11,6 @@
 
 - [ ] Not Yet (아직 풀지 않음)<br/>
       :ng: Not Good (풀었지만 책을 참고 했음)<br/>
-      :ok: OK (완벽:good:)<br/>
+      :ok: OK (완벽:+1:)<br/>
 
 ---
