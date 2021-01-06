@@ -11,6 +11,7 @@ C는 추후에 연습을 하면서 추가할 예정
 
 ### :page_with_curl:기출
 
+<<<<<<< HEAD
 :mag:CHATER11
 :mag:CHATER12
 :mag:CHATER13
@@ -20,6 +21,35 @@ C는 추후에 연습을 하면서 추가할 예정
 :mag:CHATER17
 :mag:CHATER18
 :mag:CHATER19
+=======
+|              | Header 1        | Header 2                       || Header 3                       ||
+|              | Subheader 1     | Subheader 2.1  | Subheader 2.2  | Subheader 3.1  | Subheader 3.2  |
+|==============|-----------------|----------------|----------------|----------------|----------------|
+| Row Header 1 | 3row, 3col span                                 ||| Colspan only                   ||
+| Row Header 2 |       ^                                         ||| Rowspan only   | Cell           |
+| Row Header 3 |       ^                                         |||       ^        | Cell           |
+| Row Header 4 |  Row            |  Each cell     |:   Centered   :| Right-aligned :|: Left-aligned  |
+:              :  with multiple  :  has room for  :   multi-line   :    multi-line  :  multi-line    :
+:              :  lines.         :  more text.    :      text.     :         text.  :  text.         :
+|--------------|-----------------|----------------|----------------|----------------|----------------|
+[Caption Text]
+
+:mag:CHATER|1회차|2회차|3회차
+:------:|:----:|:----:|:----:
+11|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+12|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+13|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+14|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+15|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+16|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+17|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+18|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+19|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>|<ul><li>[ ] Python</li><li>[ ] java</li></ul>
+
+- [ ] Not Yet<br/>
+:ng: Not Good<br/>
+:ok: OK
+>>>>>>> aff38dd8141c7cfa4990e9ac81a8fc776a3935d5
 
 ---
 
