@@ -2,7 +2,7 @@
 
 ### :page_with_curl:이론 및 실전 문제
 
-:mag:CHATER 03 ~ 10<br/>
+:mag:CHAPTER 03 ~ 10<br/>
 파이썬은 책을 보면서 작성<br/>
 자바는 작성한 코드를 참조 하여 작성<br/>
 C는 추후에 연습을 하면서 추가할 예정
@@ -11,15 +11,15 @@ C는 추후에 연습을 하면서 추가할 예정
 
 ### :page_with_curl:기출
 
-[:mag:CHATER11](/CHAPTER11/CHATER11.md "CHATER11의 문제 상황")<br/>
-:mag:CHATER12<br/>
-:mag:CHATER13<br/>
-:mag:CHATER14<br/>
-:mag:CHATER15<br/>
-:mag:CHATER16<br/>
-:mag:CHATER17<br/>
-:mag:CHATER18<br/>
-:mag:CHATER19<br/>
+[:mag:CHAPTER11](/CHAPTER11/CHAPTER11.md "CHAPTER11의 문제 상황")<br/>
+:mag:CHAPTER12<br/>
+:mag:CHAPTER13<br/>
+:mag:CHAPTER14<br/>
+:mag:CHAPTER15<br/>
+:mag:CHAPTER16<br/>
+:mag:CHAPTER17<br/>
+:mag:CHAPTER18<br/>
+:mag:CHAPTER19<br/>
 
 ---
 
