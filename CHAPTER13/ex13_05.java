@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class ex13_04 {
+public class ex13_05 {
 
     static int N;
     static int[] numbers;
