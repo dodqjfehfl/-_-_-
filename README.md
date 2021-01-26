@@ -14,7 +14,7 @@ C는 추후에 연습을 하면서 추가할 예정
 [:mag:CHAPTER11](/CHAPTER11/README.md "CHAPTER11의 문제 상황")<br/>
 [:mag:CHAPTER12](/CHAPTER12/README.md "CHAPTER12의 문제 상황")<br/>
 [:mag:CHAPTER13](/CHAPTER13/README.md "CHAPTER13의 문제 상황")<br/>
-:mag:CHAPTER14<br/>
+[:mag:CHAPTER14](/CHAPTER14/README.md "CHAPTER14의 문제 상황")<br/>
 :mag:CHAPTER15<br/>
 :mag:CHAPTER16<br/>
 :mag:CHAPTER17<br/>
@@ -32,4 +32,3 @@ _[이것이 코딩테스트다.](https://www.hanbit.co.kr/store/books/look.php?p
 ---
 
 :kr:
-
