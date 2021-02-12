@@ -1,7 +1,7 @@
 ### :page_with_curl:CHAPTER16
 
 |                                     :mag:Q                                     |               1회차                |               2회차               |               3회차               |
-| :----------------------------------------------------------------------------: | :--------------------------------: | :-------------------------------: | :-------------------------------: |
+| :----------------------------------------------------------------------------: | :-------------------------------- | :-------------------------------: | :-------------------------------: |
 |                          금광 (Flipkart 인터뷰 기출)                           | :black_square_button: Python<br/>:ok: java<br/>:black_square_button: C | [ ] Python<br/>[ ] java<br/>[ ] C | [ ] Python<br/>[ ] java<br/>[ ] C |
 |     [정수 삼각형](https://www.acmicpc.net/problem/1932 "백준 링크") (IOI)      | :black_square_button: Python<br/>:ok: java<br/>:black_square_button: C | [ ] Python<br/>[ ] java<br/>[ ] C | [ ] Python<br/>[ ] java<br/>[ ] C |
 |        [퇴사](https://www.acmicpc.net/problem/14501 "백준 링크") (삼성)        | :black_square_button: Python<br/>:black_square_button: java<br/>:black_square_button: C  | [ ] Python<br/>[ ] java<br/>[ ] C | [ ] Python<br/>[ ] java<br/>[ ] C |
