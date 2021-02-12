@@ -7,7 +7,7 @@
 |                             화성 탐사 (ICPC)                              | [ ] Python<br/>[ ] java<br/>[ ] C | [ ] Python<br/>[ ] java<br/>[ ] C | [ ] Python<br/>[ ] java<br/>[ ] C |
 |                             숨바꼭질 (USACO)                              | [ ] Python<br/>[ ] java<br/>[ ] C | [ ] Python<br/>[ ] java<br/>[ ] C | [ ] Python<br/>[ ] java<br/>[ ] C |
 
-- [ ] Not Yet (아직 풀지 않음)<br/>
+      :black_square_button: Not Yet (아직 풀지 않음)<br/>
       :x: worng (방법을 모르겠음)<br/>
       :ng: Not Good (풀었지만 책을 참고 했음)<br/>
       :ok: OK (완벽:+1:)<br/>
