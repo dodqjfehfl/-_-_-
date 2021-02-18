@@ -18,7 +18,7 @@ C는 추후에 연습을 하면서 추가할 예정
 [:mag:CHAPTER15](/CHAPTER15/README.md "CHAPTER15의 문제 상황")<br/>
 [:mag:CHAPTER16](/CHAPTER16/README.md "CHAPTER16의 문제 상황")<br/>
 [:mag:CHAPTER17](/CHAPTER17/README.md "CHAPTER17의 문제 상황")<br/>
-:mag:CHAPTER18<br/>
+[:mag:CHAPTER18](/CHAPTER18/README.md "CHAPTER18의 문제 상황")<br/>
 :mag:CHAPTER19<br/>
 
 ---
